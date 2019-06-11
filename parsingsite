@@ -21,3 +21,5 @@ else
 echo "####################################"
 echo "#Dominios salvos em ip_dominios.log#"
 echo "####################################"
+
+fi
