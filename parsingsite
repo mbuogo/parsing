@@ -18,8 +18,8 @@ else
    	 host $urls
    	 host $urls >> ip_dominios.log
     done
-echo "####################################"
-echo "#Dominios salvos em ip_dominios.log#"
-echo "####################################"
+    echo "####################################"
+    echo "#Dominios salvos em ip_dominios.log#"
+    echo "####################################"
 
 fi
